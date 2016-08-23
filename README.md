@@ -4,7 +4,7 @@
 
 *注：* 未编译
 ****************
-算法源码：`C#`
+算法源码：`C#`  `VS2015`
 ```
 public static string get_reg_code(string machine_code)
 {
